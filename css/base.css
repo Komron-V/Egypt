@@ -52,20 +52,8 @@ body{
     text-align: left;
 }
 
-.navbar ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-}
 
-.navbar ul li {
-    margin-right: 10px;
-}
 
-.navbar img {
-    height: 36px;
-    width: 2px;
-    margin-right: 10px;
-    vertical-align: middle;
-}
+
+
+
